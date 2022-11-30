@@ -36,7 +36,6 @@ def count_N(N):
         N //= 10
     print('Количество цифр в числе:  ', count)
     return count
-
 N = int(input('Введите число N '))
 summ = sum_N(N)
 count = count_N(N)
