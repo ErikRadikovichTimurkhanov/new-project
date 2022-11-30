@@ -1,0 +1,5 @@
+OS info is 
+uname_result(system='Linux', node='erik-ThinkPad-T460', release='5.15.0-41-generic', version='#44-Ubuntu SMP Wed Jun 22 14:20:53 UTC 2022', machine='x86_64')
+
+Python version is 3.9.13 (main, May 23 2022, 21:57:12) 
+[GCC 11.2.0] ('64bit', 'ELF')
