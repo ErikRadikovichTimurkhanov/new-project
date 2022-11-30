@@ -26,7 +26,6 @@ def sum_N(N):
         N //= 10
     print('Сумма чисел: ', count)
     return count
-
 def count_N(N):
     count = 0
     while N > 0:
