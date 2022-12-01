@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/skillbox/modul14" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/skillbox/skillbox-modul14-main" vcs="Git" />
   </component>
 </project>
